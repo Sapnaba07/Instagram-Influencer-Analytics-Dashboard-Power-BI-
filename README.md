@@ -1,6 +1,5 @@
-
+Instagram Influencer Analytics Dashboard (Power BI)
 “Power BI dashboard on Instagram Influencers – built during internship to analyze performance, engagement &amp; regional insights.”
-# 📊 Instagram Influencer Analytics Dashboard (Power BI)
 
 ## 👩‍💻 About the Project
 This project analyzes **Top Instagram Influencers (200+ profiles, 26 countries)** using **Power BI**.  
