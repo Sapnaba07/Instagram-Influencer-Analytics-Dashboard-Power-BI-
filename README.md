@@ -1,4 +1,4 @@
-# Instagram-Influencer-Analytics-Dashboard-Power-BI-
+
 “Power BI dashboard on Instagram Influencers – built during internship to analyze performance, engagement &amp; regional insights.”
 # 📊 Instagram Influencer Analytics Dashboard (Power BI)
 
@@ -92,7 +92,7 @@ The dataset contains information on top Instagram influencers:
 
 ## 📂 Project Files
 - `top_insta_influencers_data_cleaned.csv` → Cleaned dataset  
-- Power BI Dashboard File → (Upload link if required)  
+- Power BI Dashboard File 
 - PDF Report → Summary of insights  
 
 ---
